@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "dialect": "SQLite",
+            "database": "/home/user/projects/demoProject/bookshop.db",
+            "name": "Bookshop DataBase"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
